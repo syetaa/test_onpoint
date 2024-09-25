@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  
+
+  background: url(/public/test_onpoint_bg.png);
+  
+  background-size: cover;
+}
+
+@font-face {
+  font-family: 'Circe-light';
+  src: url('fonts/Circe-Light.ttf') format('truetype');
+}
+
+/* @font-face {
+  font-family: 'Circe-light2';
+  src: url('./fonts/') format('truetype');
+} */
+
+@font-face {
+  font-family: 'Circe-regular';
+  src: url('fonts/Circe-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Circe-bold';
+  src: url('fonts/Circe-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Circe-extrabold';
+  src: url('./fonts/Circe-ExtraBold.ttf') format('truetype');
+}

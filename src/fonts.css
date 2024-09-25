@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Circe-light';
+    src: url('fonts/Circe-Light.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: 'Circe-regular';
+    src: url('fonts/Circe-Regular.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: 'Circe-bold';
+    src: url('fonts/Circe-Bold.ttf') format('truetype');
+  }

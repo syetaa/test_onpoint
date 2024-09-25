@@ -1,0 +1,48 @@
+.textmain{
+    font-family: 'Circe-light';
+    font-size: 110px;
+    
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+
+}
+.text{
+    text-transform: uppercase;
+}
+.hi_text{
+    font-family: 'Circe-regular';   
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.no{
+    font-family: 'Circe-extrabold';
+    font-size: 110px;
+    text-transform: uppercase;
+}
+.next a{
+    font-family: 'Circe-regular';
+    padding: 30px 40px;
+    background: #ff6aa2;
+    border-radius: 42px;
+    font-size: 35px;
+    text-decoration: none;
+    user-select: none;
+    color: #000;
+    
+    width: 300px;
+    height: 40px;
+    
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    column-gap: 20px;
+   
+}
+.arrow{
+    display: flex;
+    padding: 15px;
+    border-radius: 50%;
+    background: #000000;
+}

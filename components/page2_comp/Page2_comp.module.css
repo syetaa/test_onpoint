@@ -1,0 +1,21 @@
+.textmain{
+    padding: 0 130px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+
+}
+.text{
+    font-family: 'Circe-light';
+    text-transform: uppercase;
+    font-size: 48px;    
+}
+.area{
+    padding: 40px;
+    border-radius: 60px;
+    background: #fff;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.47);
+
+    font-size: 30px;
+    font-family: 'Circe-regular';
+}

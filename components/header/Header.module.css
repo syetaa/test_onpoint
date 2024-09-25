@@ -1,0 +1,13 @@
+.textmain{
+    display: flex;
+    font-family: 'Circe-light';
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+    padding: 50px 130px; 
+    user-select: none;
+}
+.text1{
+    text-transform: uppercase;
+    font-size: 35px;
+}
