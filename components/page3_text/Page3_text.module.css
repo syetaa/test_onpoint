@@ -1,0 +1,78 @@
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 50px;
+}
+
+.text2{
+    text-transform: uppercase;
+}
+.text3{
+    font-size: 45px;
+    font-family: 'Circe-regular';
+
+}
+.text4{
+    font-size: 75px;
+    font-family: 'Circe-regular';
+    letter-spacing: 10px;
+}
+.text5{
+    font-size: 75px;
+    font-family: 'Circe-extrabold';
+}
+
+
+.tabs{
+    display: flex;
+    column-gap: 50px;  
+    font-family: 'Circe-regular';
+}
+
+.tab1{
+    padding: 40px;
+    background: #ffffff;
+    font-size: 25px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.47);
+
+    border-radius: 20px;
+}
+
+.tab3{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.tab2{
+    padding: 40px;
+    background: rgb(255, 255, 255);
+    font-size: 25px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.47);
+    border-radius: 20px;
+}
+.tab3 > a{
+    font-family: 'Circe-regular';
+    padding: 20px 30px;
+    background: #ff6aa2;
+    border-radius: 42px;
+    font-size: 35px;
+    text-decoration: none;
+    user-select: none;
+    color: #000;
+    
+    width: 300px;
+    height: 40px;
+    
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    column-gap: 20px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.47);
+}
+.tab3 > a > svg{
+    padding: 10px;
+    background: #000;
+    border-radius: 50%;
+}
